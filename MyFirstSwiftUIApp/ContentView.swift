@@ -12,7 +12,7 @@ struct ContentView: View {
     
     var body: some View {
         VStack(spacing: 20) {
-            Text("SwiftUI es genial! pero realemente no tanto como yoooooo 🚀")
+            Text("SwiftUI es genial! pero realemente no tanto como yoooooo, pero realemnte no tantooo  🚀")
                 .font(.title) // 🔤 Texto grande
                 .foregroundColor(isRed ? .red : .blue) // 🔴🔵 Cambia de color
             
